@@ -1,4 +1,4 @@
-Some contributions:
+Some public contributions:
 
 | Repository | Description |
 | --- | --- |
