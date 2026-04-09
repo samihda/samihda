@@ -1,5 +1,6 @@
 Some contributions:
 
+- [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster/commits?author=samihda)
 - [dundee/gdu](https://github.com/dundee/gdu/commits?author=samihda)
 - [cljdoc/cljdoc](https://github.com/cljdoc/cljdoc/commits?author=samihda)
 - [karthink/gptel](https://github.com/karthink/gptel/commits?author=samihda)
