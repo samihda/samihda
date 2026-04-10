@@ -1,4 +1,4 @@
-Some public contributions:
+Links to contribution commits at selected public repositories:
 
 | Repository | Description |
 | --- | --- |
